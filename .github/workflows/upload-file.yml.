@@ -3,7 +3,7 @@ name: Upload File
 on:
   push:
     branches:
-      - main
+      - .github
 
 jobs:
   build:
